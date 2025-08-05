@@ -32,7 +32,7 @@ Build a low-code AI Assistant that:
 
 ## 📸 Sample Prompt
 
-        Screenshot (444).png
+        ![AI Result Example]./Screenshot (444).png
 
 ## 📂 Project Structure
 
