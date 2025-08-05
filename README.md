@@ -32,7 +32,7 @@ Build a low-code AI Assistant that:
 
 ## 📸 Sample Prompt
 
-        ![AI Result Example](./Screenshot (444).png)
+        ![AI Result Example](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a5dc811d-d2ca-4be2-80de-8fa6280c69ea" />)
 
 ## 📂 Project Structure
 
