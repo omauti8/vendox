@@ -16,55 +16,56 @@ Build a low-code AI Assistant that:
 
  Technology Usage
 
- -IBM Watsonx Prompt Lab | LLM-based natural language responses 
- -Granite-13B-chat | Foundation model for contextual generation 
- -GitHub | PDF knowledge source for RAG 
- -IBM Cloud (Lite Plan) | Cloud infrastructure (Free tier) 
- -Manual RAG | Prompt-time document grounding 
+ - IBM Watsonx Prompt Lab | LLM-based natural language responses. 
+ - Granite-13B-chat | Foundation model for contextual generation.
+ - GitHub | PDF knowledge source for RAG. 
+ - IBM Cloud (Lite Plan) | Cloud infrastructure (Free tier). 
+ - Manual RAG | Prompt-time document grounding. 
 
 ## 🧠 How It Works
 
--📄 Upload relevant PDFs to GitHub (or any public link)
--⚙️ Copy text chunks from PDFs into the Context section of Watsonx Prompt Lab
--🗣️ Create user query like:
+- 📄 Upload relevant PDFs to GitHub (or any public link).
+- ⚙️ Copy text chunks from PDFs into the Context section of Watsonx Prompt Lab.
+- 🗣️ Create user query like:
         “I sell fruits in Pune Camp. Suggest pricing tips, online platforms, and QR setup.”
--🤖 Granite model responds with localized, document-aware advice
+- 🤖 Granite model responds with localized, document-aware advice.
 
 ## 📸 Sample Prompt
-        
+
+        <img width="1366" height="768" alt="Screenshot (444)" src="https://github.com/user-attachments/assets/16329ec9-c3b8-4fb2-8e88-7e4d4486b94d" />
 
 ## 📂 Project Structure
 
 📁 knowledge-base
--fruit_pricing_pune.pdf
--upi_setup_guide.pdf
--local_seo_tips.pdf
--msme_scheme_info.pdf
+- fruit_pricing_pune.pdf
+- upi_setup_guide.pdf
+- local_seo_tips.pdf
+- msme_scheme_info.pdf
 
 
 ## 💡 Key Features
 
-Retrieval-Augmented Generation using public PDFs (manual context)
-IBM Granite 13B-chat for high-quality multilingual response
-No-code deployment using Prompt Lab
-Zero server or API cost — runs entirely on IBM Cloud Free Tier    
+Retrieval-Augmented Generation using public PDFs (manual context).
+IBM Granite 13B-chat for high-quality multilingual response.
+No-code deployment using Prompt Lab.
+Zero server or API cost — runs entirely on IBM Cloud Free Tier.
 
 ## 📈 Impact
-Helps informal vendors digitize their business
-Provides access to UPI onboarding, MSME schemes, SEO tools
-Ready for extension into voice, WhatsApp, or Android chatbot integrations
+Helps informal vendors digitize their business.
+Provides access to UPI onboarding, MSME schemes, SEO tools.
+Ready for extension into voice, WhatsApp, or Android chatbot integrations.
 
 
 ## 🔮 Future Scope
-Automate document retrieval and embedding using vector DB (e.g., FAISS, ChromaDB)
-Integrate with WhatsApp API or Android App for real-time user access
-Enable speech-to-text and local language translation for broader adoption
+Automate document retrieval and embedding using vector DB (e.g., FAISS, ChromaDB).
+Integrate with WhatsApp API or Android App for real-time user access.
+Enable speech-to-text and local language translation for broader adoption.
 
 ## 🙌 Acknowledgments
 
-IBM Watsonx & Granite Foundation Models
-Indian MSME Digital India Initiatives
-UPI & ONDC Ecosystem Guidelines
+IBM Watsonx & Granite Foundation Models.
+Indian MSME Digital India Initiatives.
+UPI & ONDC Ecosystem Guidelines.
 
 📄 README.md
 
