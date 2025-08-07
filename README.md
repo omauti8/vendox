@@ -31,8 +31,7 @@ Build a low-code AI Assistant that:
 - 🤖 Granite model responds with localized, document-aware advice.
 
 ## 📸 Sample Prompt
-
-        ![image alt](https://github.com/omauti8/vendox/blob/c8808274b4509a9fbef8a1954acf0eba6436f498/Screenshot%20(444).png)
+![image alt](https://github.com/omauti8/vendox/blob/c8808274b4509a9fbef8a1954acf0eba6436f498/Screenshot%20(444).png)
 
 ## 📂 Project Structure
 
